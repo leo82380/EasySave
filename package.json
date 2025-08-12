@@ -1,0 +1,14 @@
+{
+    "name": "com.leo82380.easysave",
+    "version": "1.3.2",
+    "displayName": "EasySave",
+    "description": "Easy save system for Unity",
+    "unity": "2021.3",
+    "author": {
+        "name": "leo82380",
+        "email": "leo82380.b@gmail.com"
+    },
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.1"
+    }
+}
